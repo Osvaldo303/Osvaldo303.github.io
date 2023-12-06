@@ -2,7 +2,7 @@
 
 ## Welcome To My HomePage
     My name is Osvaldo Rodriguez and I am majoring in Computer Science.
-    My GitHub page is http://github.com/Osvaldo303 .
+    My GitHub page is http://github.com/Osvaldo303
 
 ## Computer Science Labs
 
